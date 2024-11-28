@@ -35,8 +35,8 @@ Ce script Bash automatise l'installation de Docker Engine, Docker Compose et Por
 Clonez le dépôt GitHub ou téléchargez directement le script :
 
 ```bash
-git clone https://github.com/votre-utilisateur/votre-repo.git
-cd votre-repo
+git clone https://github.com/svds12343/docker_portainer_autoinstall.git
+cd docker_portainer_autoinstall
 ```
 
 ### 2. Rendre le script exécutable
